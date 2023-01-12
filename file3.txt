@@ -1,3 +1,4 @@
 New file added on the feature_B1.
 This would be first commit on the feature_B1.
 This is modified file3 for the second commit on feature_B1.
+This is pulled from remote repo and is modified.
