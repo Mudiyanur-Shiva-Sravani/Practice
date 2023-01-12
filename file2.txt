@@ -1,2 +1,4 @@
 File2 two to be commited on the master branch.
 File2 modified on the master branch and its second commit. 
+The file is modified on the master branch for its third commit.
+file2 modified.

@@ -1,1 +1,3 @@
 This is file 1 to be commited on master branch.
+This is modified on the master branch for the third commit.
+File 1 modified.
